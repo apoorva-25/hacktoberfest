@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Apoorva Tyagi](https://github.com/apoorva-25)
+- Place: Uttar Pradesh, India
+- Bio: Student
+- Github: [apoorva-25](https://github.com/apoorva-25)
